@@ -1,0 +1,25 @@
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.exe
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.pdb
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\obj\Debug\Bot_Yapımı_Güzel.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\obj\Debug\Bot_Yapımı_Güzel.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.exe
+c:\users\everest\documents\visual studio 2013\Projects\Bot Yapımı Güzel\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.pdb
+E:\C #DERSLER AYIRMALI\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.exe.config
+E:\C #DERSLER AYIRMALI\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.exe
+E:\C #DERSLER AYIRMALI\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.pdb
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.exe.config
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.exe
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.pdb
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.exe
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.pdb
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.csprojResolveAssemblyReference.cache
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot_Yapımı_Güzel.Form1.resources
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot_Yapımı_Güzel.Properties.Resources.resources
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.csproj.GenerateResource.Cache
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.exe.manifest
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\bin\Debug\Bot Yapımı Güzel.application
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.exe.manifest
+E:\C #DERSLER Açıklamalı\Bot Yapımı Güzel Kendim Yaptım\Bot Yapımı Güzel\obj\Debug\Bot Yapımı Güzel.application
